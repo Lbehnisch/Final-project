@@ -1,0 +1,7 @@
+Final Description
+
+The initial goal of my project to chance values and parameters inside Ableton with a gesture sensor that would be connected to an Arduino.  I ended up using the Sparkfun ZX Gesture Sensor to measure the distance between the the hand and a the sensor to then run the parameter inside Ableton. 
+My second goal was to be able to switch the effect by using one of the pre-programmed gesture detection sensor. Due to time constrains I did not rich this goal
+
+My motivation behind achieving this project was the current landscape of midi controllers. 
+Most midi controllers have many little knobs and seem rather confusing. I wanted to see what it would feel like to have controller that instead of giving the user every possibility at any time, would force the user to slow down and work with a single parameter in a intuitive way. 
